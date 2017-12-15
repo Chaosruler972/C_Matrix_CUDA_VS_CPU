@@ -4,7 +4,7 @@ my way of testing CPU vs GPU on CUDA library
 
 [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
 
-[![IDE_CLION](https://img.shields.io/badge/IDE-Visual-Studio-green.svg)](https://www.visualstudio.com/)
+[![IDE_CLION](https://img.shields.io/badge/IDE-Visual%20studio-green.svg)](https://www.visualstudio.com/)
 
 ## Install and run:
 	Using visual Studio solution manager
